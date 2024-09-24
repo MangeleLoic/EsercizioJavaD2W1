@@ -23,7 +23,7 @@ public class Main {
 
 
         if (isBisestile(annoBisestile)) {
-            System.out.println(annoBisestile + " è un anno bisestile.");
+            System.out.println(annoBisestile + "è un anno bisestile.");
         } else {
             System.out.println(annoBisestile + " non è un anno bisestile.");
         }
